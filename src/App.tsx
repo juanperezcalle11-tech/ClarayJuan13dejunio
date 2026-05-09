@@ -87,7 +87,7 @@ export default function App() {
         <img src={IMAGES.hero} />
         <div className="hero-overlay" />
         <div className="hero-text">
-          <p1 style={{ fontSize: "24px" }}>13 de junio de 2026</p1>
+          <p style={{ fontSize: "24px" }}>13 de junio de 2026</p>
           <h1>Clara y Juan</h1>
           <h2 style={{ fontSize: "25px" }}>Que todo sea verdad</h2>
         </div>
